@@ -1,0 +1,50 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "git.autofetch": true,
+    "[python]": {
+        "editor.wordBasedSuggestions": false,
+        "editor.formatOnType": true
+    },
+    "editor.defaultFormatter": "ms-python.python",
+    "python.formatting.provider": "black",
+    "explorer.confirmDelete": false,
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "files.autoSave": "onFocusChange",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "cSpell.userWords": [
+        "organisation",
+        "spacemon"
+    ],
+    "eslint.format.enable": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.tabWidth": 4,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "diffEditor.renderSideBySide": false,
+    "yaml.schemas": {
+        "file:///home/alex/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "atlascode.bitbucket.enabled": true,
+    "atlascode.jira.enabled": false,
+    "html.format.contentUnformatted": "",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "prettier.bracketSameLine": true,
+    "prettier.useEditorConfig": false,
+    "window.zoomLevel": -1,
+}
